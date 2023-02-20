@@ -12,7 +12,6 @@
     groups: 
       - panda
       - sudo
-      - docker
  
 - name: Set authorized key for user panda copying it from vagrant user
   authorized_key:
